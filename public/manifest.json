@@ -1,0 +1,17 @@
+{
+  "name": "JARVIS PC Core",
+  "short_name": "JARVIS",
+  "description": "Futuristic JARVIS AI assistant with voice recognition and interactive HUD to control and launch PC apps.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050811",
+  "theme_color": "#00F0FF",
+  "icons": [
+    {
+      "src": "/src/assets/images/jarvis_arc_reactor_1790163640928.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

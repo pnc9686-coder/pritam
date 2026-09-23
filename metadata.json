@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS PC Core - AI Voice & Desktop App Launcher",
+  "description": "Futuristic JARVIS AI assistant with voice recognition and interactive HUD to control and launch PC apps, generate scripts, and execute desktop commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
